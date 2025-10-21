@@ -1,4 +1,4 @@
- Proyecto de Investigación: Librería OpenCV en Python
+## Proyecto de Investigación: Librería OpenCV en Python
 
 ##  Descripción
 Este repositorio contiene el trabajo de investigación del **Segundo Examen Parcial de Programación III**, enfocado en el estudio y aplicación práctica de la **librería OpenCV**, una de las más potentes herramientas de visión por computadora en Python.  
